@@ -1,3 +1,5 @@
+# KelvAPI
+
 This api contains dlls such as
 Rex.dll
 WeAreDevs.dll
@@ -15,7 +17,6 @@ And then you can guess what they do by their names
 
 KelvAPI kelv = new KelvAPI();
 ```C#
-# KelvAPI kelv = new KelvAPI();
 using MultiApiKelvi;
 
 KelvAPI kelv = new KelvAPI();
