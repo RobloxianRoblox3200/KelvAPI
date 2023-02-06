@@ -21,32 +21,32 @@ using MultiApiKelvi;
 
 KelvAPI kelv = new KelvAPI();
 
-<bool> isEasyExploitsAttached();
-<bool> isOxygenUAttached();
-<bool> isRexAttached();
-<bool> isWeAreDevsAttached();
-<bool> isElectronAttached();
-<bool> isKrnlAttached();
-<bool> isFluxusAttached();
+<bool> kelv.isEasyExploitsAttached();
+<bool> kelv.isOxygenUAttached();
+<bool> kelv.isRexAttached();
+<bool> kelv.isWeAreDevsAttached();
+<bool> kelv.isElectronAttached();
+<bool> kelv.isKrnlAttached();
+<bool> kelv.isFluxusAttached();
 
 
 // function Download() is downloading Injecter
-<void> Download();
+<void> kelv.Download();
 
-<void> SendLuaEasyExploits();
-<void> SendLuaOxygenU();
-<void> SendLuaRex();
-<void> SendLuaWeAreDevs();
-<void> SendLuaElectron();
-<void> SendLuaFluxus();
-<void> SendLuaKrnl();
+<void> kelv.SendLuaEasyExploits();
+<void> kelv.SendLuaOxygenU();
+<void> kelv.SendLuaRex();
+<void> kelv.SendLuaWeAreDevs();
+<void> kelv.SendLuaElectron();
+<void> kelv.SendLuaFluxus();
+<void> kelv.SendLuaKrnl();
 
-<void> InjectEasyExploit();
-<void> InjectOxugenU();
-<void> InjectRex();
-<void> InjectWeAreDevs();
-<void> InjectElectron();
-<void> InjectFluxus();
-<void> InjectKrnl();
+<void> kelv.InjectEasyExploit();
+<void> kelv.InjectOxugenU();
+<void> kelv.InjectRex();
+<void> kelv.InjectWeAreDevs();
+<void> kelv.InjectElectron();
+<void> kelv.InjectFluxus();
+<void> kelv.InjectKrnl();
 ```
 
