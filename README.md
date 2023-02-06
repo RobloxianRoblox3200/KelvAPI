@@ -1,5 +1,3 @@
-# KelvAPI
-
 This api contains dlls such as
 Rex.dll
 WeAreDevs.dll
